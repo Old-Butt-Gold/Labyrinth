@@ -1,0 +1,14 @@
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\Labyrinth.exe
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\Labyrinth.dll
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\Labyrinth.deps.json
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\Labyrinth.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\Labyrinth.pdb
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\Bogus.dll
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\NAudio.dll
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\NAudio.Asio.dll
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\NAudio.Core.dll
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\NAudio.Midi.dll
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\NAudio.Wasapi.dll
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\NAudio.WinForms.dll
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\NAudio.WinMM.dll
+C:\Users\Lenovo\RiderProjects\Labyrinth\Labyrinth\bin\Release\net7.0-windows\publish\Pastel.dll
